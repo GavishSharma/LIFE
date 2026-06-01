@@ -4,15 +4,15 @@
 ESP32 DevKit V1, 
 M2.5 Screw & Spacer, 
 Li-Ion, Battery holder, 
-L298N/TB6612FNG dual motor driver,
-N20 motor,
-44 mm wheels, 
-push button,
-VL53L0X ToF Distance Sensor,
-LED,
-Buzzer,
-caster wheel,
-2 × 18650 Batteries,
++++L298N/TB6612FNG dual motor driver,
++++N20 motor,
++++44 mm wheels, 
++++push button,
++++VL53L0X ToF Distance Sensor,
++++LED,
++++Buzzer,
++++caster wheel,
++++2 × 18650 Batteries,
 LM2596 Buck,
 M2 × 6mm (ESP32 mounting)
 M2 × 10mm (sensor mounting)
@@ -22,14 +22,14 @@ M3 nylon standoffs
 M3 nuts
 M2 nuts
 Metal washers
-Soldering iron
-Solder wire
-Mini screwdriver set
-Wire stripper
-Double-sided tape
-Hot glue gun
-Heat-shrink tubing
-Zip ties
-Electrical tape
++++Soldering iron
++++Solder wire
++++Mini screwdriver set
++++Wire stripper
++++Double-sided tape
++++Hot glue gun
++++Heat-shrink tubing
++++Zip ties
++++Electrical tape             
 
 Small breadboard OR PCB protoboard
