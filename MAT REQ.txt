@@ -1,0 +1,92 @@
+| Qty | Component                                           | Purpose                       |
+| --- | --------------------------------------------------- | ----------------------------- |
+| 1   | Raspberry Pi 5 (4GB or 8GB)                         | Vision processing and control |
+| 1   | Raspberry Pi 5 official power supply (USB-C, 5V 5A) | Stable Pi power               |
+| 1   | microSD Card (32GB or larger, Class 10)             | Raspberry Pi OS               |
+| 1   | Raspberry Pi 5 case (optional)                      | Protection                    |
+| 1   | Active cooler / fan for Pi 5                        | Prevent throttling            |
+
+
+| Qty | Component                      | Purpose                 |
+| --- | ------------------------------ | ----------------------- |
+| 1   | Raspberry Pi Camera Module 3   | Overhead vision         |
+| 1   | Camera ribbon cable            | Connect camera to Pi    |
+| 1   | Tripod / overhead camera mount | Hold camera above arena |
+| 1   | LED light source (optional)    | Better marker detection |
+
+
+| Qty | Component           | Purpose                   |
+| --- | ------------------- | ------------------------- |
+| 2   | Arduino Uno R4 WiFi | One controller per robot  |
+| 2   | USB-C cables        | Programming and debugging |
+
+
+| Qty | Component                     | Purpose                     |
+| --- | ----------------------------- | --------------------------- |
+| 2   | L298N Motor Driver Module     | Drives two motors per robot |
+| 8   | Male-to-female jumper wires   | Uno → L298N                 |
+| 8   | Male-to-male jumper wires     | Signal connections          |
+| 8   | Female-to-female jumper wires | Depending on connectors     |
+
+
+| Qty | Component                    |
+| --- | ---------------------------- |
+| 1   | 2WD robot chassis            |
+| 2   | DC geared motors             |
+| 2   | Wheels                       |
+| 1   | Castor wheel                 |
+| 1   | Acrylic/metal mounting plate |
+
+
+| Qty | Component                        |
+| --- | -------------------------------- |
+| 1   | Battery pack (2S Li-ion or 6xAA) |
+| 1   | Battery holder                   |
+| 1   | Power switch                     |
+
+
+| Qty | Component      |
+| --- | -------------- |
+| 1   | Battery pack   |
+| 1   | Battery holder |
+| 1   | Power switch   |
+
+
+| Qty | Component                  |
+| --- | -------------------------- |
+| 2   | XT60/JST connectors        |
+| 2   | Fuse holders (recommended) |
+| 2   | 1A–3A fuses                |
+
+
+| Qty | Component    |
+| --- | ------------ |
+| 1   | Wi-Fi router |
+
+
+| Qty | Component                           |
+| --- | ----------------------------------- |
+| 2   | Printed ArUco markers (IDs 0 and 1) |
+| 2   | Foam board/acrylic backing          |
+| 1   | Scale/ruler                         |
+| 1   | Printer access                      |
+| 1   | Transparent tape or lamination      |
+
+
+| Qty | Component              |
+| --- | ---------------------- |
+| 1   | Flat white floor/board |
+| 1   | Measuring tape         |
+| 1   | Marker pen             |
+| 1   | Calibration ruler      |
+
+
+| Qty    | Component            |
+| ------ | -------------------- |
+| 1 pack | M3 screws            |
+| 1 pack | M3 nuts              |
+| 1 pack | M3 spacers/standoffs |
+| 1 pack | Zip ties             |
+| 1 roll | Electrical tape      |
+| 1 roll | Double-sided tape    |
+| 1 tube | Hot glue (optional)  |
