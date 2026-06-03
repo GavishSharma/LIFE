@@ -2,7 +2,7 @@ import cv2
 import math
 import time
 
-# --- Config ---
+# --- Config ---#
 SHOW_ORIENTATION    = True    # Show angle arrow and degrees
 CAMERA_INDEX        = 0
 FRAME_WIDTH         = 640
