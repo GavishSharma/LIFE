@@ -1,3 +1,5 @@
+
+
 | Qty | Component                                           | Purpose                       |
 | --- | --------------------------------------------------- | ----------------------------- |
 | 1   | Raspberry Pi 5 (4GB or 8GB)                         | Vision processing and control |
