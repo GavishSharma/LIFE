@@ -38,7 +38,7 @@ This approach enables experimentation with advanced robotics concepts while keep
             (Vision + Localization +
                  Decision Making)
                            |
-                      Wi-Fi UDP
+                      Wi-Fi MQTT
                            |
         +------------------+------------------+
         |                                     |
