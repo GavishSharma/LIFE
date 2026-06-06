@@ -98,3 +98,15 @@ Central infrastructure:
 ## Project Objective
 
 Develop a robust research and educational platform for studying vision-based autonomous navigation and multi-robot systems using a centralized intelligence architecture.
+
+## LIFE V2
+
+Overhead Camera
+        |
+   Jetson Orin Nano
+        |
+   ROS2 Network
+        |
++---+---+---+---+
+|A  |B  |C  |D  |
++---+---+---+---+
