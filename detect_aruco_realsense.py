@@ -8,7 +8,7 @@ import pyrealsense2 as rs
 SHOW_ORIENTATION = True
 FRAME_WIDTH      = 640
 FRAME_HEIGHT     = 480
-ARUCO_DICT       = cv2.aruco.DICT_4X4_250
+ARUCO_DICT       = cv2.aruco.DICT_4X4_50
 PRINT_INTERVAL   = 0.25
 
 
