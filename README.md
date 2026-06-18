@@ -34,7 +34,7 @@ This approach enables experimentation with advanced robotics concepts while keep
                            |
                            v
 
-                  Raspberry Pi 5
+                  Jetson Orin Nano
             (Vision + Localization +
                  Decision Making)
                            |
