@@ -4,7 +4,7 @@
 
 LIFE (Localized Intelligent Fleet Ecosystem) is a small-scale swarm robotics project focused on centralized vision-based robot coordination.
 
-The system consists of multiple 3D-printed differential-drive robots operating inside a controlled arena. Instead of relying on onboard localization sensors, robot positions and orientations are estimated using an overhead camera and ArUco markers. A Raspberry Pi 5 acts as the central controller, continuously tracking the robots and issuing navigation commands over Wi-Fi.
+The system consists of multiple 3D-printed differential-drive robots operating inside a controlled arena. Instead of relying on onboard localization sensors, robot positions and orientations are estimated using an overhead camera and ArUco markers. A JetsonOrin Nano acts as the central controller, continuously tracking the robots and issuing navigation commands over Wi-Fi.
 
 LIFE is designed as a platform for exploring:
 
